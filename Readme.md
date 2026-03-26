@@ -1,25 +1,28 @@
-# Readme.md
+# VisualLawAdvPro
 
-## Visual Law Jurídico Estratégico
+## Visão Geral
 
-SKILL desenvolvida para oferecer comunicação jurídica moderna, clara e institucional por meio do Visual Law, atendendo clientes e empresas que buscam compreensão, segurança e autoridade.
+VisualLawAdvPro é uma SKILL desenvolvida para advogados que desejam elevar o padrão de comunicação jurídica por meio do Visual Law, garantindo clareza, impacto e profissionalismo absoluto.
 
-### Entregas Principais
+## Público-Alvo
 
-- Documentos jurídicos visualmente estruturados
-- Comunicação jurídica acessível e estratégica
-- Padronização institucional profissional
-- Fortalecimento da confiança do cliente
-- Presença digital jurídica sólida
+- Advogados
+- Escritórios de advocacia
+- Profissionais do Direito
+- Clientes leigos em linguagem jurídica
 
-### Público-Alvo
+## Benefícios
 
-- Clientes
-- Empresas
+- Comunicação jurídica acessível
+- Aumento da compreensão do cliente
+- Fortalecimento da autoridade profissional
+- Presença digital estratégica
+- Documentos visualmente organizados
 
-### Compromisso Institucional
+## Identidade Profissional
 
-Todos os documentos seguem rigorosamente padrões técnicos, visuais e institucionais, refletindo ética, seriedade e excelência jurídica.
-
-Visual Law Jurídico Estratégico  
-@oliveiracarlosadv
+Carlos A. A. Oliveira  
+OAB/PA nº 33996  
+@oliveiraCarlosADV  
+(91) 9 9827-7601  
+http://www.oliveiracarlos.adv.br
