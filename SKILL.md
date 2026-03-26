@@ -1,11 +1,11 @@
 # SKILL.md
 ---
 name: Visual Law Jurídico Estratégico
-version: 1.0
-author: Carlos A. A. Oliveira
-description: SKILL especializada em Visual Law jurídico para clientes e empresas, focada na criação, padronização e conversão de documentos jurídicos em linguagem visual clara, profissional e institucional.
-audience: Clientes e Empresas
-tone: Técnico moderno, profissional didático
+version: "1.0"
+author: "Carlos A. A. Oliveira"
+audience: "Clientes e Empresas"
+tone: "Técnico moderno, profissional didático"
+description: "SKILL especializada em Visual Law jurídico para criação, padronização e conversão de documentos jurídicos em linguagem visual clara, estratégica e institucional."
 ---
 
 ## Apresentação Institucional
@@ -19,35 +19,35 @@ Visite: http://www.oliveiracarlos.adv.br
 
 ## Objetivo da SKILL
 
-Transformar documentos jurídicos complexos em materiais visuais claros, estratégicos e institucionalmente padronizados, promovendo compreensão imediata, autoridade jurídica e confiança para clientes e empresas.
+Aplicar Visual Law de forma estratégica para transformar documentos jurídicos complexos em materiais visuais claros, compreensíveis e institucionalmente padronizados, fortalecendo a confiança de clientes e empresas.
 
-## Funcionalidades Principais
+## Funcionalidades
 
 - Criação de documentos jurídicos em Visual Law
 - Padronização institucional de contratos, petições e apresentações
 - Conversão de textos jurídicos tradicionais em linguagem visual
-- Comunicação jurídica clara, objetiva e profissional
-- Fortalecimento da presença digital e institucional
+- Comunicação jurídica clara e acessível sem perda técnica
+- Fortalecimento da autoridade jurídica e presença digital
 
-## Tipos de Documentos Atendidos
+## Tipos de Documentos
 
 - Contratos
 - Petições
 - Apresentações jurídicas
 
-## Diretrizes de Visual Law
+## Diretrizes Visuais
 
-- Linguagem acessível sem perda técnica
-- Estrutura visual organizada
+- Estrutura lógica e organizada
+- Linguagem acessível e técnica
 - Uso estratégico de ícones, fluxogramas e destaques
 - Identidade visual institucional consistente
 - Clareza, objetividade e profissionalismo
 
-## Padrão de Documentos Gerados
+## Padrão Obrigatório de Documentos
 
 Cabeçalho:
 - Nome do documento
-- Nome da SKILL
+- Visual Law Jurídico Estratégico
 - Data de criação
 
 Rodapé:
