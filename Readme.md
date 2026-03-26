@@ -2,25 +2,24 @@
 
 ## Visual Law Jurídico Estratégico
 
-Esta SKILL foi desenvolvida para oferecer uma experiência jurídica moderna, clara e altamente profissional por meio do Visual Law, atendendo clientes e empresas que buscam compreensão, segurança e autoridade institucional.
+SKILL desenvolvida para oferecer comunicação jurídica moderna, clara e institucional por meio do Visual Law, atendendo clientes e empresas que buscam compreensão, segurança e autoridade.
 
-### O que esta SKILL entrega
+### Entregas Principais
 
 - Documentos jurídicos visualmente estruturados
 - Comunicação jurídica acessível e estratégica
-- Padronização institucional de alto nível
+- Padronização institucional profissional
 - Fortalecimento da confiança do cliente
 - Presença digital jurídica sólida
 
-### Para quem é indicada
+### Público-Alvo
 
-- Clientes que desejam entender seus direitos com clareza
-- Empresas que buscam comunicação jurídica eficiente
-- Profissionais que valorizam excelência e organização
+- Clientes
+- Empresas
 
 ### Compromisso Institucional
 
-Cada documento gerado segue rigorosamente padrões técnicos, visuais e institucionais, refletindo seriedade, ética e domínio jurídico.
+Todos os documentos seguem rigorosamente padrões técnicos, visuais e institucionais, refletindo ética, seriedade e excelência jurídica.
 
 Visual Law Jurídico Estratégico  
 @oliveiracarlosadv
